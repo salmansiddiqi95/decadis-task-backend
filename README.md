@@ -1,5 +1,3 @@
-// How to setup and run the express project
-
 ## Prerequisites
 - Node.js
 - npm
